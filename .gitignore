@@ -1,0 +1,17 @@
+# Временные файлы
+*~
+
+# Gradle
+.gradle/
+build/
+# Build outputs
+build/
+out/
+*.jar
+*.war
+*.ear
+*.zip
+*.tar.gz
+
+# IDE files
+.idea/
